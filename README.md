@@ -193,13 +193,13 @@ Facts:
 <hr>
 <div class="column">
   <p>Social</p>
-  <a href="https://kgathola-puka-994295226/">
+  <a href="https:/kgathola-puka-994295226/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:kgatholapuka.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://wa.me/+270715763427">
+  <a href="https://wa.me/+27715763427">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
