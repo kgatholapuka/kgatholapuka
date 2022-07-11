@@ -74,9 +74,6 @@ Facts:
   <hr>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgatholapuka&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
   <p>Programming Languages</p>
-  
-  
-  
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   </a>
@@ -92,7 +89,6 @@ Facts:
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Json">
   </a>
- 
 </div>
 <hr>
 <div class="column">
@@ -100,7 +96,6 @@ Facts:
   <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
   </a>
- 
   <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
