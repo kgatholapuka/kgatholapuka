@@ -1,11 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=ThulaniNyama&label=Thulani's+Profile+Views">
-<img src="https://github-readme-stats.vercel.app/api?username=ThulaniNyama&show_icons=true&theme=github_dark">
+<img src="https://github-readme-stats.vercel.app/api?username=kgatholapuka&show_icons=true&theme=github_dark">
 <img height="145em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThulaniNyama&theme=github_dark" alt="Thulani" align="left"/>
 <br><br><br><br><br><br><br>
 
 ## Hi there 👋 👩🏾‍💻
 
-My friends and peers call me “Tools” which is drawn from my name Thulani.
+My friends call me "Puka" which is drawn from my name Thulani.
 I would like to assume that they see me as a ‘toolbox’ that contains numerous
 instruments to develop, design and fix code in a peculiar way.
 I am a natural problem solver, from chess and competitive board games to
@@ -31,8 +31,8 @@ Facts:
 - 🌱 I’m currently learning Power BI, Power Platform, Python, SQL, Machine Learning, AI, Azure, AWS
 - 👯 I’m open to collaborate on new opportunities
 - 💬 Ask me a PROBLEM
-- 📫 How to reach me: nyamathulani@gmail.com
-- 😄 Pronouns: Tools 🔨 
+- 📫 How to reach me: kgatholapuka@gmail.com
+- 😄 Pronouns: Puka 
 - ⚡ Fun fact: Solving Rubik's cubes
 - 💻 Skills
 <hr>
