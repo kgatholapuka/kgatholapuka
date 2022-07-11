@@ -141,11 +141,7 @@ Facts:
   <a href="https://www.sqlite.org/index.html">
     <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   </a>
-  <a href="https://www.mongodb.com/">
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase">
   </a>
 </div>
 <hr>
@@ -153,9 +149,6 @@ Facts:
   <p>Tools</p>
   <a href="https://trello.com/en">
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello">
-  </a>
-  <a href="https://www.atlassian.com/software/jira">
-    <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
   </a>
 </div>
 <hr>
@@ -209,5 +202,5 @@ Facts:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kgatholapuka&color=4169e1&line=4169e1&point=4169e1&bg_color=000000&area=true&hide_border=false)
 
 <p align="center">
-   <a href="https://github.com/ThulaniNyama/ThulaniNyama"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
+   <a href="https://github.com/kgatholapuka/kgatholapuka"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
