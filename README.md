@@ -6,11 +6,18 @@
 ## Hi there 👋 🏾‍💻
 
 My friends call me "Puka" which is drawn from my last_name Puka.
+My abilities as a Data Scientist are rooted in a sturdy education in mathematics.
+I began with a Qualification in Data Science from Explore Data Science Academy. 
+Currently purshing a qualification in Data Engineering . 
+I attribute my success as a Data Scientist in large part to this extensive and in-depth education. 
+I believe my personality has also played a major role in my ability to succeed in this career.
+I am an extremely analytical, data-oriented, and calculated. Even in my personal life I like to look at the data before making a decision.
+I like to analyze outcomes.
 I am a natural problem solver, from chess and competitive board games to
 Rubik’s cubes – this is actually where my love for code derives from.
 
 I tend to see myself as a versatile Developer ,qualified Data Scientist and aspiring data engineer since I learn new
-technologies constantly. My skills range from ASP.Net, C, PHP,
+technologies constantly. My skills range from PHP,
 Python, Azure, AWS, SQL databases , Firebase and Git.
 I have therefore refined my strengths throughout my experience.
 With this said, I consider myself to be very adaptable, a plug and play kind of person.
