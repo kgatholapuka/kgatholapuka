@@ -6,17 +6,13 @@
 ## Hi there 👋 🏾‍💻
 
 My friends call me "Puka" which is drawn from my last_name Puka.
-I would like to assume that they see me as a ‘toolbox’ that contains numerous
-instruments to develop, design and fix code in a peculiar way.
 I am a natural problem solver, from chess and competitive board games to
 Rubik’s cubes – this is actually where my love for code derives from.
 
-I tend to see myself as a versatile Developer and aspiring Data Scientist since I learn new
-technologies constantly. My skills range from C# (WCF, WPF, REST and NUnit), ASP.Net, C, PHP,
-React, Python, Azure, AWS, SQL databases and Firebase not forgetting Git.
-I have been exposed to a wide variety of technologies in my career and C# has
-been a constant improvement integrated with the likes of XAMARIN, Unity
-and Docker. I have therefore refined my strengths throughout my experience.
+I tend to see myself as a versatile Developer ,qualified Data Scientist and aspiring data engineer since I learn new
+technologies constantly. My skills range from ASP.Net, C, PHP,
+Python, Azure, AWS, SQL databases , Firebase and Git.
+I have therefore refined my strengths throughout my experience.
 With this said, I consider myself to be very adaptable, a plug and play kind of person.
 
 Apart from coding, I like to spread laughter, knowledge, and positive energy.
@@ -190,7 +186,7 @@ Facts:
   <a href="https://git-scm.com/">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   </a>
-  <a href="https://github.com/ThulaniNyama">
+  <a href="https://github.com/Kgatholapuka">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
@@ -200,17 +196,17 @@ Facts:
   <a href="https://www.linkedin.com/in/thulani-nyama-816194198/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:nyamathulani@gmail.com">
+  <a href="mailto:kgatholapuka.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://wa.me/+27835166484">
+  <a href="https://wa.me/+270715763427">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
 
 <hr>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ThulaniNyama&color=4169e1&line=4169e1&point=4169e1&bg_color=000000&area=true&hide_border=false)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kgatholapuka&color=4169e1&line=4169e1&point=4169e1&bg_color=000000&area=true&hide_border=false)
 
 <p align="center">
    <a href="https://github.com/ThulaniNyama/ThulaniNyama"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
