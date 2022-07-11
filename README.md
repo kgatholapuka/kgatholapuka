@@ -76,23 +76,11 @@ Facts:
 </div>
 <div class="column">
   <hr>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThulaniNyama&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgatholapuka&layout=compact&&langs_count=10)](https://github.com/anuraghazra/github-readme-stats">
   <p>Programming Languages</p>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  </a>
-  <a href="https://www.java.com/en/">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  </a>
-  <a href="https://www.learn-c.org/">
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </a>
-  <a href="https://dart.dev/">
-    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  </a>
-  <a href="https://developer.apple.com/swift/">
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  </a>
+  
+  
+  
   <a href="https://www.javascript.com/">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   </a>
@@ -108,9 +96,7 @@ Facts:
   <a href="https://www.json.org/json-en.html">
     <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="Json">
   </a>
-  <a href="https://graphql.org/">
-    <img src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL">
-  </a>
+ 
 </div>
 <hr>
 <div class="column">
@@ -118,9 +104,7 @@ Facts:
   <a href="https://dotnet.microsoft.com/">
     <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net">
   </a>
-  <a href="https://angular.io/">
-    <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  </a>
+ 
   <a href="https://getbootstrap.com/">
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
