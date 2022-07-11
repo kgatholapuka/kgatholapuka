@@ -3,9 +3,9 @@
 <img height="145em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgatholapuka&theme=github_dark" alt="Thulani" align="left"/>
 <br><br><br><br><br><br><br>
 
-## Hi there 👋 👩🏾‍💻
+## Hi there 👋 🏾‍💻
 
-My friends call me "Puka" which is drawn from my name Thulani.
+My friends call me "Puka" which is drawn from my last_name Puka.
 I would like to assume that they see me as a ‘toolbox’ that contains numerous
 instruments to develop, design and fix code in a peculiar way.
 I am a natural problem solver, from chess and competitive board games to
