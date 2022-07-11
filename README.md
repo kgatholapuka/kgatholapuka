@@ -16,8 +16,7 @@ I like to analyze outcomes.
 I am a natural problem solver, from chess and competitive board games to
 Rubik’s cubes – this is actually where my love for code derives from.
 
-I tend to see myself as a versatile Developer ,qualified Data Scientist and aspiring data engineer since I learn new
-technologies constantly. My skills range from PHP,
+Since I learn new technologies constantly. My skills range from PHP,
 Python, Azure, AWS, SQL databases , Firebase and Git.
 I have therefore refined my strengths throughout my experience.
 With this said, I consider myself to be very adaptable, a plug and play kind of person.
