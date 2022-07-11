@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=ThulaniNyama&label=Thulani's+Profile+Views">
 <img src="https://github-readme-stats.vercel.app/api?username=kgatholapuka&show_icons=true&theme=github_dark">
-<img height="145em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThulaniNyama&theme=github_dark" alt="Thulani" align="left"/>
+<img height="145em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kgatholapuka&theme=github_dark" alt="Thulani" align="left"/>
 <br><br><br><br><br><br><br>
 
 ## Hi there 👋 👩🏾‍💻
