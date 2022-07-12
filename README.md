@@ -8,7 +8,7 @@
 My friends call me "Puka" which is drawn from my last_name Puka.
 My abilities as a Data Scientist are rooted in a sturdy education in Information system.
 I began with a Qualification in Data Science from Explore Data Science Academy. 
-Currently purshing a qualification in Data Engineering . 
+Currently pursuing a qualification in Data Engineering . 
 I attribute my success as a Data Scientist in large part to this extensive and in-depth education. 
 I believe my personality has also played a major role in my ability to succeed in this career.
 I am an extremely analytical, data-oriented, and calculated. Even in my personal life I like to look at the data before making a decision.
