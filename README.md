@@ -6,7 +6,7 @@
 ## Hi there 👋 🏾‍💻
 
 My friends call me "Puka" which is drawn from my last_name Puka.
-My abilities as a Data Scientist are rooted in a sturdy education in mathematics.
+My abilities as a Data Scientist are rooted in a sturdy education in Information system.
 I began with a Qualification in Data Science from Explore Data Science Academy. 
 Currently purshing a qualification in Data Engineering . 
 I attribute my success as a Data Scientist in large part to this extensive and in-depth education. 
