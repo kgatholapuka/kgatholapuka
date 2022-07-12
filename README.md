@@ -167,11 +167,9 @@ Facts:
   <a href="https://www.jetbrains.com/phpstorm/download/#section=windows">
     <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHP STORM">
   </a>
-  <a href="https://developer.apple.com/xcode/">
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode">
+ 
   </a>
-  <a href="https://www.vim.org/download.php">
-    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
+  
   </a>
 </div>
 <hr>
