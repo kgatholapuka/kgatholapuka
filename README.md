@@ -161,11 +161,6 @@ Facts:
   <a href="https://visualstudio.microsoft.com/downloads/">
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio">
   </a>
-  <a href="https://netbeans.apache.org/download/index.html">
-    <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans">
-  </a>
-  <a href="https://www.jetbrains.com/phpstorm/download/#section=windows">
-    <img src="https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid" alt="PHP STORM">
   </a>
  
   </a>
