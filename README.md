@@ -114,21 +114,7 @@ Facts:
   </a>
 </div>
 <hr>
-<div class="column">
-  <p>Libraries</p>
-  <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  </a>
-</div>
-<hr>
-<div class="column">
-  <p>Packages</p>
-  <a href="https://www.npmjs.com/">
-    <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  </a>
-  <a href="https://yarnpkg.com/">
-    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn">
-  </a>
+
 </div>
 <hr>
 <div class="column">
